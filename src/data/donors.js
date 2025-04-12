@@ -1202,7 +1202,4 @@ export const donorData = [
     "conditions": []
   },
 
-
-  
-
 ];
