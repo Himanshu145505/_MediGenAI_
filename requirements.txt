@@ -1,0 +1,7 @@
+fastapi
+pydantic
+google-generativeai
+pyngrok
+uvicorn
+nest-asyncio
+fastapi
