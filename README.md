@@ -2,14 +2,6 @@
 
 **MediGen AI** is a cutting-edge, doctor-first platform revolutionizing organ transplantation using advanced AI, 3D simulations, and real-time alerts. From intelligent organ matching to transplant analysis and educational tools, MediGen empowers medical professionals to make faster, smarter, and safer decisions.
 
----
-
-## 🔍 Core Purpose
-
-> Transform the way doctors handle organ transplants — by providing **AI-powered precision**, **reliable simulations**, and **real-time donor alerts** — all in one seamless platform.
-
----
-
 ## 💡 Key Features
 
 ### 🧬 Organ Match Engine (RAG-Based)
