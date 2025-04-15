@@ -179,7 +179,7 @@ Search Name: "" (blank)
 ## 📽️ Demo Video
 
 Watch how MediGen AI works in real-time:
-**[👉 Project Walkthrough]()**
+**[👉 Project Walkthrough](https://drive.google.com/file/d/1lRQbABumVUrE_tZJ5fQZTq_Gj0vORegv/view?usp=sharing)**
 
 ---
 
@@ -205,8 +205,3 @@ Watch how MediGen AI works in real-time:
 
 We welcome contributions from developers, designers, and healthcare professionals.  
 Feel free to open an issue, fork the repo, or raise a PR to improve MediGen AI.
-
----
-
-> *Empowering doctors with AI — because every second counts in saving a life.* ❤️‍🔥
-```
